@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\BT1_Slide\BT1_Slide\bin\Debug\BT1_Slide.exe.config
+C:\Users\USER\source\repos\BT1_Slide\BT1_Slide\bin\Debug\BT1_Slide.exe
+C:\Users\USER\source\repos\BT1_Slide\BT1_Slide\bin\Debug\BT1_Slide.pdb
+C:\Users\USER\source\repos\BT1_Slide\BT1_Slide\obj\Debug\BT1_Slide.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\BT1_Slide\BT1_Slide\obj\Debug\BT1_Slide.Form1.resources
+C:\Users\USER\source\repos\BT1_Slide\BT1_Slide\obj\Debug\BT1_Slide.Properties.Resources.resources
+C:\Users\USER\source\repos\BT1_Slide\BT1_Slide\obj\Debug\BT1_Slide.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\BT1_Slide\BT1_Slide\obj\Debug\BT1_Slide.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BT1_Slide\BT1_Slide\obj\Debug\BT1_Slide.exe
+C:\Users\USER\source\repos\BT1_Slide\BT1_Slide\obj\Debug\BT1_Slide.pdb
